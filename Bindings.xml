@@ -1,0 +1,12 @@
+<Bindings>
+	<Binding name="COWBOY_0" runOnUp="true" header="COWBOY">Cowboy:KeyPress(keystate, 0)</Binding>
+	<Binding name="COWBOY_1" runOnUp="true">Cowboy:KeyPress(keystate, 1)</Binding>
+	<Binding name="COWBOY_2" runOnUp="true">Cowboy:KeyPress(keystate, 2)</Binding>
+	<Binding name="COWBOY_3" runOnUp="true">Cowboy:KeyPress(keystate, 3)</Binding>
+	<Binding name="COWBOY_4" runOnUp="true">Cowboy:KeyPress(keystate, 4)</Binding>
+	<Binding name="COWBOY_5" runOnUp="true">Cowboy:KeyPress(keystate, 5)</Binding>
+	<Binding name="COWBOY_6" runOnUp="true">Cowboy:KeyPress(keystate, 6)</Binding>
+	<Binding name="COWBOY_7" runOnUp="true">Cowboy:KeyPress(keystate, 7)</Binding>
+	<Binding name="COWBOY_8" runOnUp="true">Cowboy:KeyPress(keystate, 8)</Binding>
+	<Binding name="COWBOY_9" runOnUp="true">Cowboy:KeyPress(keystate, 9)</Binding>
+</Bindings>

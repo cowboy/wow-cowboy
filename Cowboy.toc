@@ -1,0 +1,9 @@
+## Title: Cowboy
+## Version: 0.1
+## Interface: 40200
+## Author: Cowboy
+## Notes: Miscellany
+
+CBEvent.lua
+CBSlash.lua
+Cowboy.lua
