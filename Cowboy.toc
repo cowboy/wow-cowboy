@@ -3,6 +3,7 @@
 ## Interface: 40200
 ## Author: Cowboy
 ## Notes: Miscellany
+## Dependencies: SharedMediaAdditionalFonts
 
 CBEvent.lua
 CBSlash.lua
